@@ -35,7 +35,11 @@ Use:
 # Credits
 
 GUI: JugularBongo (Me)
+
 UI: Jugular Bongo (Me)
+
 Code: JugularBongo (Me)
+
 Key And Verification system: 0x83 and JugularBongo (Me)
+
 API: KRNL and KRNL Team
